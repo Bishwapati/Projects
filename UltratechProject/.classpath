@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/access-bridge-64.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/jaccess.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sunec.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/ext/zipfs.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="D:/jars/navigatorAPI.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
